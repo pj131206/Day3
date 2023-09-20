@@ -20,7 +20,7 @@ public class Pravin1
 		ob.a=445;
 		System.out.println("value of a"+ob.a);
 		System.out.println("code sharing done");
-		System.out.println("again");
+		System.out.println("2nd co");
 		
 	}
 }
